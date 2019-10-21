@@ -1,3 +1,5 @@
+live demo: [https://jerichokain.github.io/image-dataurl/](https://jerichokain.github.io/image-dataurl/)
+
 # image-dataurl
 
 ## Project setup
