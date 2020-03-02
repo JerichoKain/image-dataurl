@@ -17,11 +17,9 @@ git checkout gh-pages
 git rm css/* img/* js/*
 git commit -m "Preparing for Deployment"
 # copy files
-cp -rf ../TicTacVue/dist/* .
+cp -rf ../image-dataurl/dist/* .
 # add resources and push to git
 git add css/* img/* js/* index.html favicon.ico
 git commit -m "Deployment"
 git status
 git push
-
-cd -
